@@ -1,1 +1,2 @@
-# Tarea02-Caru-Prado-Felipe
+Felipe Caru Prado
+felipe.caru@alumnos.uv.cl
